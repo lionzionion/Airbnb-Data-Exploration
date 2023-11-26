@@ -63,7 +63,7 @@ plt.show()
 ```
 ### Visual 2: Relationship Between Bedrooms and Price
 
-´´´ python bedroom_price_analysis.plot(kind='bar', figsize=(12, 6), color='coral')
+´´´python bedroom_price_analysis.plot(kind='bar', figsize=(12, 6), color='coral')
 plt.title('Relationship Between Number of Bedrooms and Price')
 plt.xlabel('Number of Bedrooms')
 plt.ylabel('Mean Price')
