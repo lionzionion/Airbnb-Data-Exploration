@@ -2,11 +2,13 @@
 # Airbnb Property Analysis Portfolio
 
 ## Introduction
+
 This project explores various aspects of Airbnb property listings, providing insights for both hosts and guests. The analysis covers topics such as accommodation types, neighborhood pricing dynamics, the impact of amenities, and correlations between different factors.
 
 ## Questions Explored
 ### Question 1:
 **Accommodation Types Overview**
+
 The analysis uncovers the most common types of accommodations listed on Airbnb.
 
 ### Question 2:
