@@ -11,41 +11,51 @@ The analysis uncovers the most common types of accommodations listed on Airbnb.
 
 ### Question 2:
 **Neighborhood Pricing Insights**
+
 Exploring average prices across different neighborhoods reveals valuable information for hosts and guests.
 
 ### Question 3:
 **Correlation Between Reviews and Satisfaction**
+
 A positive correlation is identified between the number of reviews and overall satisfaction ratings.
 
 ### Question 4:
 **Property Type Distribution Over Time**
+
 Visualizing property types over time provides insights into evolving trends in the Airbnb landscape.
 
 ### Question 5:
 **Impact of Amenities on Listing Prices**
+
 The analysis highlights how the availability of amenities influences listing prices.
 
 ### Question 6:
 **Relationship Between Bedrooms and Price**
+
 An exploration of the relationship between the number of bedrooms and listing prices.
 
 ### Question 7:
 **Host Response Time and Satisfaction**
+
 Insights into how host response time correlates with overall satisfaction ratings.
 
 ### Question 8:
 **Property Size Trends Across Neighborhoods**
+
 Identifying trends in property sizes based on neighborhood dynamics.
 
 ### Question 9:
 **Correlation Between Description Length and Price**
+
 Understanding how the length of listing descriptions correlates with booking prices.
 
 ### Question 10:
 **Impact of Minimum Nights Requirement on Booking Frequency**
+
 Examining how the minimum nights requirement affects booking frequency.
 
 ## Visualizations
+
 ### Visual 1: Property Type Distribution Over Time
 
 ```python import matplotlib.pyplot as plt
