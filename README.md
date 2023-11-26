@@ -63,7 +63,7 @@ plt.show()
 ```
 ### Visual 2: Relationship Between Bedrooms and Price
 
-´´´python bedroom_price_analysis.plot(kind='bar', figsize=(12, 6), color='coral')
+```python bedroom_price_analysis.plot(kind='bar', figsize=(12, 6), color='coral')
 plt.title('Relationship Between Number of Bedrooms and Price')
 plt.xlabel('Number of Bedrooms')
 plt.ylabel('Mean Price')
@@ -72,7 +72,7 @@ plt.show()
 
 ### Visual 3: Host Response Time vs. Overall Satisfaction Rating
 
-´´´python rounded_response_time_rating_analysis.plot(kind='bar', figsize=(12, 6), color='lightgreen')
+```python rounded_response_time_rating_analysis.plot(kind='bar', figsize=(12, 6), color='lightgreen')
 plt.title('Host Response Time vs. Overall Satisfaction Rating')
 plt.xlabel('Host Response Time')
 plt.ylabel('Mean Satisfaction Rating')
@@ -82,7 +82,7 @@ plt.show()
 
 ### Visual 4: Impact of Minimum Nights Requirement on Booking Frequency
 
-´´´python minimum_nights_analysis.plot(kind='bar', figsize=(12, 6), color='orange')
+```python minimum_nights_analysis.plot(kind='bar', figsize=(12, 6), color='orange')
 plt.title('Impact of Minimum Nights Requirement on Booking Frequency')
 plt.xlabel('Minimum Nights Requirement')
 plt.ylabel('Total Number of Reviews')
@@ -90,6 +90,7 @@ plt.show()
 ```
 
 ## Conclusion
-The analysis provides a comprehensive understanding of Airbnb property dynamics, offering actionable insights for hosts to optimize their listings and for guests to make informed choices. The combination of quantitative findings and visualizations enhances the overall experience within the Airbnb ecosystem.
+The analysis provides a comprehensive understanding of Airbnb property dynamics, offering actionable insights for hosts to optimize their listings and for guests to make informed choices. 
+The combination of quantitative findings and visualizations enhances the overall experience within the Airbnb ecosystem.
 
 
